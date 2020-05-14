@@ -107,7 +107,6 @@ mandatory_tags = [
   "Billable",
 ]
 
-
 ### Rules ###
 
 # Call the validation function
